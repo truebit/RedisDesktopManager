@@ -31,7 +31,7 @@ public:
 private:
     void initAppInfo();
     void initAppFonts();
-    void initAppAnalytics();
+//     void initAppAnalytics();
     void registerQmlTypes();
     void registerQmlRootObjects();
     void initLog();
