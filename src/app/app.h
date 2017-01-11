@@ -4,7 +4,7 @@
 #include <QQmlApplicationEngine>
 #include <QFontDatabase>
 #include <QMenu>
-#include <googlemp.h>
+//#include <googlemp.h>
 
 #ifndef RDM_VERSION
 #include "../version.h"
